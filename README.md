@@ -5,7 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Для тебя ❤️</title>
+<title> Аяш ❤️</title>
 
 <style>
     * {
@@ -72,13 +72,13 @@
 <body>
 
 <div class="card">
-    <h1>жаланаш фотонды жыбересынба? ❤️</h1>
+    <h1>гл фотонды жыбересынба? ❤️</h1>
 
-    <button id="yes" onclick="yesClick()">Да 😍</button>
-    <button id="no">Нет 😏</button>
+    <button id="yes" onclick="yesClick()">Да </button>
+    <button id="no">Нет </button>
 
     <div id="message">
-        Рахмет жду❤️😂
+        Рахмет жду❤️
     </div>
 </div>
 
